@@ -1,6 +1,6 @@
 # Miami landing page
 
-[LINK to githubpage](https://presidentcomanch.github.io/Miami_landing/)
+[LINK to githubpage](https://presidentcomanch.github.io/miami/)
 
 HTML, SCSS, JS
 BEM
